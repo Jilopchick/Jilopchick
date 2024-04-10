@@ -1,16 +1,27 @@
-### Hi there 👋
+### Евгений Масеёнок
+:round_pushpin: Москва
+## Junior Data Scientist
+Я начинающий аналитик данных, самостоятельно обучался и выполнял задачи аналитика, что позволило мне приобрести опыт анализа данных в e-commerce. Готов к обучению, стремлюсь к профессиональному развитию в области анализа данных.
+<br/><br/>
+<div id="badges">
+  <a href="https://disk.yandex.ru/i/1JlomQdvZ_WFTA">
+    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
+  </a>
+  <a href="https://t.me/jilopchick">
+    <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
+  </a>
+</div>
 
-<!--
-**Jilopchick/Jilopchick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты:
+| Название | Инструменты |
+| :--------: | :--------: |
+|[Определение рыночной стоимости квартир](https://github.com/Jilopchick/Data-Science/tree/main/Projects-from-courses/Research-of-apartment-sale-ads)|<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|
